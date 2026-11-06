@@ -1,0 +1,7 @@
+*
+!Dockerfile
+!requirements.txt
+!app.py
+!ledger.py
+!auth.py
+!firestore_store.py

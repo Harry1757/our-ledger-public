@@ -1,0 +1,10 @@
+{
+  "household": {"id":"test-household","name":"검증 가계부","mode":"separate","budget":0},
+  "me":"test-a",
+  "members":[{"id":"test-a","name":"검증 사용자","bank":"","account":"","holder":""}],
+  "categories":[{"id":"cafe","name":"카페","keywords":["커피"]},{"id":"travel","name":"여행","keywords":["여행"]},{"id":"other","name":"미분류","keywords":[]}],
+  "entries":[],"inbox":[],
+  "stats":{"total":0,"previousTotal":0,"delta":0,"budgetRemaining":0,"personalTotal":0,"fundBalance":0,"byCategory":[],"byMember":[],"daily":[],"trend":[]},
+  "settlement":{"fromID":"","toID":"","kind":"separate","revision":"test-revision","amount":0,"count":0,"memberAmounts":[]},
+  "history":[]
+}
